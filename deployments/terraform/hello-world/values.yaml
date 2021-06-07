@@ -5,7 +5,7 @@
 replicaCount: 10
 
 image:
-  repository: docker.nurkyz.com/hello-world-stage:b207053
+  repository: docker.nurkyz.com/hello-world-stage:89be00e
   tag: stable
   pullPolicy: IfNotPresent
 
