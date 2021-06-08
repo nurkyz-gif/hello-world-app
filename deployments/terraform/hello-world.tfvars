@@ -1,0 +1,5 @@
+google_project_id       = "aerial-optics-307300"
+google_bucket_name      = "nurkyz-fuchicorp12"
+deployment_environment  = "qa"
+deployment_name         = "hello-world"
+credentials             = "fuchicorp-service-account.json"
